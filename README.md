@@ -4,9 +4,8 @@ kaggle competition: https://www.kaggle.com/c/cassava-leaf-disease-classification
 
 # the solution notebooks:
 
-# train: https://www.kaggle.com/hadeertalat3/funny-leaf-5?scriptVersionId=55336679
+# train: t.ly/YaLr
 
-# test: https://www.kaggle.com/hadeertalat3/funny-leaf-5-2?scriptVersionId=55336758
+# test: t.ly/2roK
 
-# document: https://docs.google.com/spreadsheets/d/1m7SSKitEJRgGGYQ4or-J_6HfGiRlzlZcgZX34oM-OXo/edit?usp=drive_web&ouid=112957325766861594110
-
+# document: t.ly/I0Zw
